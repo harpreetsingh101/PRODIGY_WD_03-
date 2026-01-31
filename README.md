@@ -16,7 +16,8 @@ This project was developed as **Task 03** of my **Web Development Internship at 
 - JavaScript (Vanilla)
 
 🌐 Live Demo  
-https://harpreetsingh101.github.io/PRODIGY_WD_03/
+https://harpreetsingh101.github.io/PRODIGY_WD_03-/
+
 
 👨‍💻 Author  
 **Harpreet Singh**  
