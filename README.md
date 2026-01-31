@@ -1,77 +1,26 @@
-# PRODIGY_WD_03-
-🎮 Tic-Tac-Toe Web Game
+🎮 Tic-Tac-Toe Web Game  
 
-PRODIGY_WD_03
+A Tic Tac Toe web game built using HTML, CSS, and JavaScript.  
+This project was developed as **Task 03** of my **Web Development Internship at Prodigy InfoTech**.
 
-A modern Tic Tac Toe web game built using HTML, CSS, and JavaScript.
-This project was developed as Task 03 of my Web Development Internship at Prodigy InfoTech and focuses on game logic, UI interactivity, and responsiveness.
+✨ Features  
+- Play against a friend or AI  
+- Smart AI that blocks winning moves  
+- Glassmorphism UI with animations  
+- Sound effects for clicks, wins, and losses  
+- Fully responsive design  
 
-✨ Features
+🛠️ Technologies Used  
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla)
 
-Dual Game Modes
+🌐 Live Demo  
+https://harpreetsingh101.github.io/PRODIGY_WD_03/
 
-Play with a friend (Player vs Player)
+👨‍💻 Author  
+**Harpreet Singh**  
+B.Tech CSE Student | Web Development Intern at Prodigy InfoTech  
 
-Play against a smart AI opponent
-
-AI Logic
-
-Blocks winning moves
-
-Chooses optimal positions strategically
-
-Modern UI
-
-Glassmorphism design
-
-Smooth animations and hover effects
-
-Sound Effects
-
-Click, win, and lose audio feedback
-
-Responsive Design
-
-Works smoothly on desktop and mobile devices
-
-🛠️ Technologies Used
-
-HTML5 – Structure
-
-CSS3 – Styling & animations
-
-JavaScript (Vanilla) – Game logic & AI
-
-📂 File Structure
-├── index.html        # Main menu & game mode selection
-├── game.html         # Tic Tac Toe game board
-├── style.css         # Glassmorphism & neon UI styles
-├── script.js         # Game logic and AI functionality
-├── sounds/           # Sound effects
-│   ├── click.wav
-│   ├── win.wav
-│   └── lose.mp3
-├── images/           # Background & UI assets
-└── preview/          # Game screenshots
-
-📚 What I Learned
-
-Implementing game logic using JavaScript
-
-Creating AI decision-making logic
-
-Managing DOM events and UI state
-
-Designing responsive layouts
-
-Improving debugging and problem-solving skills
-
-👨‍💻 Author
-
-Harpreet Singh
-B.Tech CSE Student
-Web Development Intern at Prodigy InfoTech
-
-📄 License
-
-This project is created for learning and educational purposes only.
+📄 Note  
+This project is created for learning and internship purposes.
